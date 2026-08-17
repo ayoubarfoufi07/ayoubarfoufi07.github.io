@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function () {
         (guests ? ' pour ' + guests + ' personne(s)' : '') + '.' +
         (message ? ' ' + message : '');
 
-      var waNumber = document.body.getAttribute('data-wa-number') || '33638414074';
+      var waNumber = document.body.getAttribute('data-wa-number') || '33600000000';
       var url = 'https://wa.me/' + waNumber + '?text=' + encodeURIComponent(text);
       window.open(url, '_blank');
     });
