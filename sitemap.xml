@@ -1,15 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.balcon-orelle.fr/</loc><priority>1.0</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/le-logement.html</loc><priority>0.9</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/galerie.html</loc><priority>0.8</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/piscine-spa.html</loc><priority>0.8</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/ski-orelle-val-thorens.html</loc><priority>0.9</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/orelle-en-ete.html</loc><priority>0.7</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/decouvrir-orelle.html</loc><priority>0.7</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/localisation.html</loc><priority>0.6</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/faq.html</loc><priority>0.6</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/contact.html</loc><priority>0.9</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/mentions-legales.html</loc><priority>0.2</priority></url>
-  <url><loc>https://www.balcon-orelle.fr/confidentialite.html</loc><priority>0.2</priority></url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/le-logement.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/galerie.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/piscine-spa.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/ski-orelle-val-thorens.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/orelle-en-ete.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/decouvrir-orelle.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/localisation.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/faq.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/contact.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/mentions-legales.html</loc>
+    <priority>0.2</priority>
+  </url>
+
+  <url>
+    <loc>https://lebalcondorelle.fr/confidentialite.html</loc>
+    <priority>0.2</priority>
+  </url>
+
 </urlset>
